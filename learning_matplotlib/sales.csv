@@ -1,0 +1,31 @@
+OrderID,CustomerName,Product,Category,Quantity,Sales,Profit,OrderDate,Shipped,Country
+1001,Aarav Sharma,Laptop,Electronics,1,75000,12000,2025-01-03,Yes,India
+1002,Priya Verma,Mouse,Electronics,2,1200,300,2025-01-05,Yes,India
+1003,Rohan Gupta,Office Chair,Furniture,1,8500,1500,2025-01-07,No,India
+1004,Ananya Singh,Desk,Furniture,1,12000,2500,2025-01-10,Yes,India
+1005,Vihaan Kapoor,Notebook,Stationery,10,500,150,2025-01-12,Yes,India
+1006,Neha Patel,Monitor,Electronics,1,18000,3500,2025-01-15,Yes,India
+1007,Kabir Mehta,Printer,Electronics,1,9500,1800,2025-01-18,No,India
+1008,Siya Jain,Bookshelf,Furniture,1,6500,1200,2025-01-20,Yes,India
+1009,Arjun Nair,Pen Pack,Stationery,20,800,250,2025-01-22,Yes,India
+1010,Meera Iyer,Tablet,Electronics,1,25000,5000,2025-01-25,Yes,India
+1011,Aryan Khanna,Laptop,Electronics,1,78000,13000,2025-02-02,Yes,India
+1012,Diya Malhotra,Desk,Furniture,1,11500,2200,2025-02-05,Yes,India
+1013,Rahul Sethi,Mouse,Electronics,3,1800,450,2025-02-08,No,India
+1014,Ishita Roy,Monitor,Electronics,1,17500,3200,2025-02-12,Yes,India
+1015,Yash Bansal,Notebook,Stationery,15,750,220,2025-02-15,Yes,India
+1016,Tanvi Joshi,Printer,Electronics,1,9800,1900,2025-02-18,Yes,India
+1017,Aditya Rao,Office Chair,Furniture,2,17000,3200,2025-02-22,No,India
+1018,Kriti Arora,Pen Pack,Stationery,25,1000,300,2025-02-25,Yes,India
+1019,Ritik Das,Tablet,Electronics,1,26000,5200,2025-03-01,Yes,India
+1020,Saanvi Kapoor,Bookshelf,Furniture,1,7000,1400,2025-03-05,Yes,India
+1021,Dev Agarwal,Laptop,Electronics,1,80000,14000,2025-03-08,Yes,India
+1022,Anika Chawla,Desk,Furniture,1,12500,2600,2025-03-11,No,India
+1023,Karan Mishra,Monitor,Electronics,1,18500,3600,2025-03-15,Yes,India
+1024,Riya Bhatia,Notebook,Stationery,12,600,180,2025-03-18,Yes,India
+1025,Harsh Vora,Printer,Electronics,1,10000,2000,2025-03-22,Yes,India
+1026,Pooja Menon,Office Chair,Furniture,1,9000,1700,2025-03-25,Yes,India
+1027,Nikhil Jain,Tablet,Electronics,1,25500,5100,2025-03-28,No,India
+1028,Shruti Shah,Pen Pack,Stationery,30,1200,350,2025-04-02,Yes,India
+1029,Ayaan Tiwari,Laptop,Electronics,1,82000,14500,2025-04-06,Yes,India
+1030,Muskan Arora,Bookshelf,Furniture,1,7200,1500,2025-04-10,Yes,India

@@ -1,0 +1,11 @@
+OrderID,CustomerName,Product,Category,Quantity,Price,OrderDate,Shipped,Country
+1001,Aarav Sharma,Laptop,Electronics,1,65000,01-05-2026,Yes,India
+1002,Neha Gupta,Office Chair,Furniture,2,8500,03-05-2026,No,India
+1003,Rohan Verma,Headphones,Electronics,3,2500,04-05-2026,Yes,India
+1004,Priya Singh,Notebook,Stationery,10,120,05-05-2026,Yes,India
+1005,Kabir Mehta,Coffee Maker,Home Appliances,1,4200,07-05-2026,No,India
+1006,Ananya Rao,Smartphone,Electronics,1,32000,08-05-2026,Yes,India
+1007,Vikram Patel,Backpack,Accessories,2,1800,09-05-2026,Yes,India
+1008,Sneha Kapoor,Water Bottle,Home & Kitchen,5,350,10-05-2026,No,India
+1009,Aditya Jain,Desk Lamp,Furniture,2,950,12-05-2026,Yes,India
+1010,Meera Nair,Tablet,Electronics,1,28000,15-05-2026,Yes,India
